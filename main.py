@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import discord
 from discord.ext import commands
 import asyncio
@@ -523,5 +522,4 @@ async def evento_aleatorio():
 # ⚠️ Regenera el token desde el Developer Portal si ya lo publicaste
 
 TOKEN = os.getenv("TOKEN")
->>>>>>> 7a87237101609a4cf7a2f398130d0550f0326c09
 bot.run(TOKEN)
